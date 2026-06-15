@@ -18,7 +18,7 @@ This Power BI dashboard analyzes sales and revenue data using the Superstore dat
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ## Author
 Bantu Satyanarayana
